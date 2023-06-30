@@ -1,0 +1,6 @@
+wsgiserver - done
+webapp2
+flup - done
+pypi
+dash - done
+pip install virtualenvwrapper-win
